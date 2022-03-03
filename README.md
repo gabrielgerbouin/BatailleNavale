@@ -1,4 +1,4 @@
-# Bataille_navale
+# BatailleNavale
 
 ***** Version Française *****
 
